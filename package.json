@@ -1,0 +1,13 @@
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "Prime number checker module using node.js and npm",
+  "license": "MIT",
+  "keywords": ["prime", "number"],
+  "author": "Mihajlo Stoiljkovic",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
